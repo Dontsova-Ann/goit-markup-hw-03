@@ -293,7 +293,7 @@ button {
 }
 .portfolio-list {
   display: flex;
-  gap: 24px;
+row-gap: 48;
   flex-wrap: wrap;
   justify-content: center;
 }
