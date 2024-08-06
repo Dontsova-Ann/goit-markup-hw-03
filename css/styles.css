@@ -293,22 +293,15 @@ button {
   margin-bottom: 72px;
 }
 .portfolio-list {
- 
  display: flex;
-  column-gap: 24px;
   row-gap: 48px;
+  gap: 24px;
   flex-wrap: wrap;
   justify-content: center;
 }
 .portfolio-item {
 margin-bottom: 48px;
 
-}
-
-.container-text {
-  padding: 32px 16px;
-  border: 1px solid #e7e9fc;
-  border-top: none;
 }
 
 .title-portfolio-item {
