@@ -295,15 +295,15 @@ button {
 .portfolio-list {
  
  display: flex;
-  column-gap: 24;
-  row-gap: 48;
+  column-gap: 24px;
+  row-gap: 48px;
   flex-wrap: wrap;
   justify-content: center;
 }
 .portfolio-item {
-  display: flex;
+  
   width: calc((100% - 48px) / 3);
-  flex-direction: column;
+  
   margin-bottom: 48px;
 }
 .portfolio-item.list-team:nth-child(-n + 3) {
