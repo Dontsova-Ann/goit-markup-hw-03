@@ -55,8 +55,17 @@ button {
   cursor: pointer;
   font-family: "Roboto", sans-serif;
 }
+section,
+.footer {
+max-width: 1440px;
+margin: auto;
+}
+
+
+
 /* #region header */
 .header {
+  margin:auto ;
   width: 1158px;
   border-bottom: 1px solid #e7e9fc;
 }
